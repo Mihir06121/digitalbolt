@@ -1,9 +1,3 @@
-import {
-    AiFillInstagram,
-    AiFillFacebook,
-    AiFillPhone
-  } from "react-icons/ai";
-
 const Footer = () => {
 
   let date = new Date();
