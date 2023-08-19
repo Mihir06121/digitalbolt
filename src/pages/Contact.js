@@ -1,5 +1,4 @@
 import { useRef } from "react";
-import Footer from "../components/Footer"
 import { styled } from '@mui/material/styles';
 import TextField from '@mui/material/TextField';
 import emailjs from "@emailjs/browser";
