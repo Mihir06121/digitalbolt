@@ -10,14 +10,14 @@ const About = () => {
                 </div>
                 <div className="d-md-block d-none container-fluid d-flex justify-content-center align-items-center " style={{height: '50vh'}}>
                     <div className="text-white py-3 py-md-5 display-1" data-aos="fade-up" data-aos-delay="500">
-                        <p style={{textShadow: '0px 0px 10px grey',  fontSize: '10vw'}}><b>About Us</b>
+                        <p style={{textShadow: '0px 0px 10px grey',  fontSize: '10vw'}}><strong>About Us</strong>
                         </p>
                     </div>
                 </div>
             </div>
             <div className="py-md-5 p-2 d-flex justify-content-center align-items-center">
-                <div className="container-fluid col-md-8 col-10 fs-4" data-aos="fade-up" data-aos-delay="300">
-                    <p className="text-justify">
+                <div className="container-fluid text-justify col-md-8 col-11 fs-4" style={{textAlign: 'justify'}} data-aos="fade-up" data-aos-delay="300">
+                    <p className="">
                         Digital Bolt Private Limited, a part of the esteemed Kumbhar Group of Companies, offers a diverse range of services, including SDLC Consulting, 
                         Cloud Consulting, Application Development, and Digital Transformation Audit. 
                         With a global presence, we serve clients across 27countries, providing tailored solutions to meet their unique needs.

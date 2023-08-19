@@ -41,7 +41,7 @@ const Home = () => {
                 About Us
               </div>
             </div>
-            <div className="col-md-5 pt-3" data-aos="fade-up" data-aos-delay="300">
+            <div className="col-md-5 pt-3" style={{textAlign: 'justify'}} data-aos="fade-up" data-aos-delay="300">
               <h4 className="">
               Digital Bolt Private Limited, part of the esteemed Kumbhar Group, offers diverse services including SDLC and Cloud Consulting, 
               Application Development, and Digital Transformation Audit. With global presence in 27 countries, under MD Zek Furtado's leadership, 
